@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahilkumar14
 - 👀 I’m interested in coding, problem solving, learning new technology
-- 🌱 I’m currently learning learning dsa in c++,java and also making project using python
+- 🌱 I’m currently learning learning full-stack technologies.
 - 💞️ I’m looking to collaborate on technology related to web development
 
 <!---
