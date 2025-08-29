@@ -2,9 +2,6 @@
 - 👀 I’m interested in coding, problem solving, learning new technology
 - 🌱 I’m currently learning learning dsa in c++,java and also making project using python
 - 💞️ I’m looking to collaborate on technology related to web development
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 sahilkumar14/sahilkumar14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
